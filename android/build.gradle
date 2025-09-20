@@ -36,6 +36,8 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+
+    namespace "com.duobao9.app.asr_plugin"
 }
 
 dependencies {
