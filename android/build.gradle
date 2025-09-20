@@ -26,6 +26,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace 'com.duobao9.app.asr_plugin'
     compileSdkVersion 31
 
     compileOptions {
